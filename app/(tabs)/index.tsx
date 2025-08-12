@@ -12,8 +12,8 @@ import {
   Dimensions,
   TextInput
 } from 'react-native';
+
 import { BleManager, Device } from 'react-native-ble-plx';
-import base64 from 'react-native-base64';
 // Chart libraries
 import { LineChart } from 'react-native-chart-kit';
 import { Image } from 'react-native'; // ✅ CORRECT
